@@ -1,0 +1,102 @@
+    1  pwd
+    2  git clone https://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@github.com/josedct/intro_clase4.git
+    3  cd intro_clase4
+    4  ls
+    5  nano README.md
+    6  touch style.css
+    7  nano style.css
+    8  git add .
+    9  git commit -m "Agregando style.css"
+   10  git config --global user.email "cp149722@gmail.com"
+   11  git config --global user.name "Carlos_Paredes"
+   12  git commit -m "Agregando style.css"
+   13  git push origin master
+   14  git push 
+   15  ls
+   16  nano README.md
+   17  git commit -m "modificando README.md por segunda vez"
+   18  git add .
+   19  git commit -m "modificando README.md por segunda vez"
+   20  git push
+   21  ls
+   22  nano README.md
+   23  git add .
+   24  git push
+   25  git commit -m "negrita y cursiva en README.md"
+   26  git push
+   27  df
+   28  top
+   29  top
+   30  git clone https://github.com/CarlosParedes9722/Chekpoint-CarlosParedes-200823.git
+   31  cd Checkpoint-CarlosParedes-200823
+   32  cd Chekpoint-CarlosParedes-200823
+   33  touch main.js
+   34  touch index.html
+   35  git add .
+   36  git commit -m "commit 01 CarlosParedes"
+   37  git config user.email "cp149722@gmail.com"
+   38  git config user.name "CarlosParedes9722"
+   39  git pull origina main
+   40  git pull origin main
+   41  git push origin main
+   42  git branch feature
+   43  git checkout feature
+   44  mkdir Hardware
+   45  mkdir Software
+   46  mkdir SeguridadInformatica
+   47  cd Hardware
+   48  touch resumen.txt
+   49  cd ..
+   50  cd Software
+   51  touch resumen.txt
+   52  cd ..
+   53  cd SeguridadInformatica
+   54  touch resumen.txt
+   55  git add .
+   56  git commit -m "commit 2 CarlosParedes"
+   57  git push origin feature
+   58  git checkout main
+   59  git checkout origin main
+   60  cd ..
+   61  git mv main.js resumenHardware.txt
+   62  git mv index.html resumenSoftware.txt
+   63  nano resumenSoftware.txt
+   64  nano resumenHardware.txt
+   65  touch comandos.txt
+   66  history 
+   67  git clone https://github.com/CarlosParedes9722/Checkpoint-CarlosParedes.git
+   68  touch main.js
+   69  touch index.html
+   70  git commit -m "commit 01 de CarlosParedes"
+   71  git clone https://github.com/CarlosParedes9722/Checkpoint-CarlosParedes.git
+   72  cd Checkpoint-CarlosParedes
+   73  touch main.js
+   74  touch index.html
+   75  git commit -m "commit 01 CarlosParedes"
+   76  git add .
+   77  git commit -m "commit 01 CarlosParedes"
+   78  git config user.email "cp149722@gmail.com"
+   79  git config user.name "CarlosParedes9722"
+   80  git push origin main
+   81* git branch f
+   82  git checkout feature
+   83  mkdir Hardware Software SeguridadInformatica
+   84  cd Hardware
+   85  touch resumen.txt
+   86  cd ..
+   87  de Software
+   88  cd Software
+   89  touch resumen.txt
+   90  cd ..
+   91  cd SeguridadInformatica
+   92  touch resumen.txt
+   93  cd ..
+   94  git add .
+   95  git commit -m "commit 02 CarlosParedes"
+   96  git push origin feature
+   97  git checkout main
+   98  git mv main.js resumenHardware.txt
+   99  git mv index.html resumenSoftware.txt
+  100  nano resumenHardware.txt
+  101  nano resumenSoftware.txt
+  102  history > comandos.txt
